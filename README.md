@@ -12,4 +12,4 @@
 ## **Projects using Python**
 | Project  | Description |
 | ------------- | ------------- |
-| [Analyze TV Data](https://github.com/MayaClarke/DataCamp-Projects/blob/main/Python/Analyzing%20TV%20Data/Analyzing%20TV%20Data.ipynb)  | Use data manipulation and visualization to explore  television broadcast dataset: The Super Bowl! |
+| [Analyzing Television Data](https://github.com/MayaClarke/DataCamp-Projects/blob/main/Python/Analyzing%20TV%20Data/Analyzing%20TV%20Data.ipynb)                 | Use data manipulation and visualization to explore  television broadcast dataset: The Super Bowl!                                                     |
