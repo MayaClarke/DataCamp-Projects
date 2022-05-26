@@ -9,3 +9,7 @@
 | [When Was the Golden Age of Video Games](https://github.com/MayaClarke/DataCamp-Projects/tree/main/SQL/When%20Was%20the%20Golden%20Age%20of%20Video%20Games%3F)  | Use joins and set theory to discover the best years for video games! |
 |[ Optimizing Online Sports Retail Revenue](https://github.com/MayaClarke/DataCamp-Projects/tree/main/SQL/Optimizing%20Online%20Sports%20Retail%20Revenue) | Analyze product data for an online sports retail company to optimize revenue. |
 | [What and Where Are the World's Oldest Businesses?](https://github.com/MayaClarke/DataCamp-Projects/tree/main/SQL/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses) | Use joining techniques to discover the oldest businesses in the world.  |
+## **Projects using Python**
+| Project  | Description |
+| ------------- | ------------- |
+| [Analyze TV Data](https://github.com/MayaClarke/DataCamp-Projects/blob/main/Python/Analyzing%20TV%20Data/Analyzing%20TV%20Data.ipynb)  | Use data manipulation and visualization to explore  television broadcast dataset: The Super Bowl! |
