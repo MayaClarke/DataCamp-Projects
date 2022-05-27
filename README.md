@@ -14,3 +14,4 @@
 | ------------- | ------------- |
 | [Analyzing Television Data](https://github.com/MayaClarke/DataCamp-Projects/blob/main/Python/Analyzing%20TV%20Data/Analyzing%20TV%20Data.ipynb)                 | Use data manipulation and visualization to explore  television broadcast dataset: The Super Bowl!        
 | [Investigating Netflix Movies](https://github.com/MayaClarke/DataCamp-Projects/tree/main/Python/Investigating%20Netflix%20Movies)  | Apply the foundational Python skills you learned in Introduction to Python and Intermediate Python by manipulating and visualizing movie and TV data.  |
+| [Comparing Search Interest with Google Trends](https://github.com/MayaClarke/DataCamp-Projects/blob/main/Python/Comparing%20Search%20Interest%20with%20Google%20Trends/Comparing%20Search%20Interest%20with%20Google%20Trends.ipynb) | Manipulate and plot time series data from Google Trends to analyze changes in search interest over time.  |
