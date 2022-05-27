@@ -12,4 +12,5 @@
 ## **Projects using Python**
 | Project  | Description |
 | ------------- | ------------- |
-| [Analyzing Television Data](https://github.com/MayaClarke/DataCamp-Projects/blob/main/Python/Analyzing%20TV%20Data/Analyzing%20TV%20Data.ipynb)                 | Use data manipulation and visualization to explore  television broadcast dataset: The Super Bowl!                                                     |
+| [Analyzing Television Data](https://github.com/MayaClarke/DataCamp-Projects/blob/main/Python/Analyzing%20TV%20Data/Analyzing%20TV%20Data.ipynb)                 | Use data manipulation and visualization to explore  television broadcast dataset: The Super Bowl!        
+| [Investigating Netflix Movies](https://github.com/MayaClarke/DataCamp-Projects/tree/main/Python/Investigating%20Netflix%20Movies)  | Apply the foundational Python skills you learned in Introduction to Python and Intermediate Python by manipulating and visualizing movie and TV data.  |
